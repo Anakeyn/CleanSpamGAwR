@@ -9,3 +9,4 @@ Nos données proviennent du site de Networking Morbihan. A la fin les données s
 Les fichiers de blacklist sont nécéssaires au fonctionnement.
 
 Voir les explications sur notre site ici :  https://www.anakeyn.com/2019/04/23/nettoyage-du-spam-dans-google-analytics-avec-r-partie-i/
+et ici : https://www.anakeyn.com/2019/04/23/nettoyage-du-spam-dans-google-analytics-avec-r-partie-ii/
